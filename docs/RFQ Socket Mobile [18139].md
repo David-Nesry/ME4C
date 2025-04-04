@@ -24,7 +24,7 @@ Transporting greater than 10-million packages per year, XXX Express is a small-p
 
 XXX Freight
 
-Acting as a complement to the other two DICOM GROUP companies, XXX Freight transports more than one million tons per year, and maintains a robust network in Ontario and Quebec. XXX Freight offers expedited LTL, TL transportation services and intermodal transportation within Ontario and Quebec, Atlantic provinces, Western Canada and the United States.
+Acting as a complement to the other two XXX GROUP companies, XXX Freight transports more than one million tons per year, and maintains a robust network in Ontario and Quebec. XXX Freight offers expedited LTL, TL transportation services and intermodal transportation within Ontario and Quebec, Atlantic provinces, Western Canada and the United States.
 
 XXX Logistics
 
