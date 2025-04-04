@@ -1,5 +1,7 @@
 # Welcome to Mimo Services Canada
 
+This site was created on the fly to help me learn how to put together a documentation website. ME4C stands for MkDocs-Example-4-Company. This is an example prototype doc site to automate documentation generation and maintenance using AI, and to implement documentation pipelines based on Markdown and GitHub.
+
 **![Let's get hammered](images/LetsGetHammered_Thumbnail.gif)**
 
 ## Services
