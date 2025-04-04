@@ -1,0 +1,7 @@
+site_name: Mimo Services Canada
+nav:
+  - Home: index.md
+  - About: about.md
+  - RFQ: RFQ Socket Mobile [18139].md
+theme:
+  name: material
