@@ -8,7 +8,7 @@ XYZ Mobile
 
 **December 4th, 2015**
 
-Tender No. : RFQ\_00023\_0001
+Tender No. : RFQ\_000xx\_0001
 
 # 1.0 Introduction
 
@@ -30,11 +30,11 @@ XXX Logistics
 
 A transportation and logistics management company specializing in innovative, customer-specific business solutions with a focus on reducing costs while optimizing network efficiency. XXX Logistics services include cross-docking, freight consolidation, and complete freight management systems. XXX Logistics offers services within Canada and the United States.
 
-With the combination of its three businesses, The XXX GROUP offers the largest and fastest private delivery network in Quebec and Ontario.
+With the combination of its three businesses, The XXX GROUP offers the largest and fastest private delivery network in loc1 and loc2.
 
 ## 1.2 Project Introduction
 
-The XXX TRANSPORTATION GROUP is looking for a functional handheld scanning device with the capability of working with an iOS, Android or Windows platform. This device would be a tool for our high volume drivers that works with our BYOD program.
+The XXX TRANSPORxxx GROUP is looking for a functional handheld scanner device with the capability of working with an iOS, Android or Windows platform. This device would be a tool for our high volume drivers that works with our BYOD program.
 
 **1.3 Project Requirements**
 
@@ -46,13 +46,13 @@ COMPANY suggests VENDOR to do two (2) propositions for this RFQ if desired. One 
 
 ## 2.1 Request for Quotation
 
-COMPANY is asking for a quotation from each BIDDER to get a sense of pricing and products available on the market. Although this RFQ does not bind COMPANY to making a purchase, COMPANY would like to make a decision within the next few days on a single vendor for this product.
+XXX COMPANY is asking for a quotation from each BIDDER to get a sense of pricing and products available on the market. Although this RFQ does not bind COMPANY to making a purchase, COMPANY would like to make a decision within the next few days on a single vendor for this product.
 
 ## 2.2 Definition of Terms
 
 BIDDER – The word “BIDDER” shall mean any vendor that submits a response to this Request for Proposal.
 
-COMPANY – The word “COMPANY” shall mean Dicom Transportation Group.
+COMPANY – The word “COMPANY” shall mean XXX Transpor Group.
 
 CONTRACTOR – The word “Contractor” shall mean the successful BIDDER.
 
@@ -62,11 +62,11 @@ BYOD – The word “BYOD” shall mean bring your own device.
 
 ## 2.3 Clarification and/or Submission of Bid Documents
 
-A BIDDER requiring clarification of the documents may notify COMPANY in writing or by email at the following address:
+A BIDDER requiring clarification of the documents may notify xxx COMPANY in writing or by email at the following address:
 
 XXX Transportation Group Canada Inc.
 
-10500 XXX Avenue
+11111 XXX Avenue
 
 XXX, QC
 
@@ -82,9 +82,9 @@ mway@goxxx.com
 
 Please provide a description of BIDDER’s solution(s) in ATTACHMENT A.
 
-Please provide pricing for Socket CHS Series scanner in the following format as provided in ATTACHMENT B.
+Please provide pricing for Sock XXX Series xxxx in the following format as provided in ATTACHMENT B.
 
-COMPANY is looking for detailed pricing on BIDDER’s Socket CHS Series scanner. In ATTACHMENT A is a generic pricing tool for BIDDER to complete. Any questions or concerns please email Caroline Guay at mway@goxxx.com.
+COMPANY is looking for detailed pricing on BIDDER’s Sock XXX Series xxxxx. In ATTACHMENT A is a generic pricing tool for BIDDER to complete. Any questions or concerns please email Caroline Guay at mway@goxxx.com.
 
 ## 3.1 Bid Rejection
 
@@ -94,11 +94,11 @@ COMPANY is not obligated to accept any submission or any proposal from any prosp
 
 COMPANY reserves the right to reject any bid which is judged to be in violation of the spirit and intent of the ITB documents.
 
-Unsuccessful BIDDERS will be notified by COMPANY in writing as soon as possible after the “BID AWARD”. COMPANY is under no obligation to discuss the reasons underlying the failure of the BIDDER to be selected, and shall not disclose its analysis of any proposal. Note that this request does not imply an exclusive relationship with COMPANY and COMPANY reserves the right to enter into an agreement with any party it so chooses for any reason and shall have no obligation or in any way be legally bound as a result of this letter or any parties’ submission of a Proposal.
+Unsuccessful BIDDERS will be notified by COMPANY in writing as soon as possible after the “BID AWARD”. XXX COMPANY is under no obligation to discuss the reasons underlying the failure of the BIDDER to be selected, and shall not disclose its analysis of any proposal. Note that this request does not imply an exclusive relationship with XXX COMPANY and COMPANY reserves the right to enter into an agreement with any party it so chooses for any reason and shall have no obligation or in any way be legally bound as a result of this letter or any parties’ submission of a Proposal.
 
 **3.3 Confidentiality**
 
-This RFQ, and any attachments thereto, regardless of form or medium, is intended only for use by the addressee(s) and may contain legally privileged and/or confidential, copyrighted, trademarked, patented or otherwise restricted information viewable by the intended recipient only. Any unauthorized release, disclosure or use of the contents of this document without written permission of the DICOM GROUP is prohibited and will cause the vendor to be eliminated from further consideration, among other appropriate remedies.
+This RFQ, and any attachments thereto, regardless of form or medium, is intended only for use by the addressee(s) and may contain legally privileged and/or confidential, copyrighted, trademarked, patented or otherwise restricted information viewable by the intended recipient only. Any unauthorized release, disclosure or use of the contents of this document without written permission of the XXX GROUP is prohibited and will cause the vendor to be eliminated from further consideration, among other appropriate remedies.
 
 **ATTACHMENT A**
 
@@ -112,9 +112,9 @@ This RFQ, and any attachments thereto, regardless of form or medium, is intended
 |  |  |
 | --- | --- |
 | **RFQ INFORMATION** | |
-| Date of issuance | 2015-12-04 |
-| RFQ number | *RFQ\_00023\_HSD* |
-| Deadline for delivery of quote | 2015-12-11 |
+| Date of issuance | 2025-12-04 |
+| RFQ number | *RFQ\_000XX\_HSD* |
+| Deadline for delivery of quote | 2025-12-11 |
 
 |  |  |
 | --- | --- |
