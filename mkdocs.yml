@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - About: about.md
   - RFQ: RFQ_Soc_Mo.md
+  - KB Article: Download_install_ConnectorMax.md
 theme:
   name: material
