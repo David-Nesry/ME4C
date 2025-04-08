@@ -6,7 +6,7 @@ nav:
   - KB Article: Download_install_ConnectorMax.md
 theme:
   logo: images/2017-MimoServices.jpg
-  favicon: assets/mimo-favicon.ico
+  favicon: assets/mimo-favicon.png
   name: material
   palette:
     # Dark Mode
