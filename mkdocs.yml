@@ -5,4 +5,23 @@ nav:
   - RFQ: RFQ_Soc_Mo.md
   - KB Article: Download_install_ConnectorMax.md
 theme:
+  logo: images/2017-MimoServices.jpg
+  favicon: assets/mimo-favicon.ico
   name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  

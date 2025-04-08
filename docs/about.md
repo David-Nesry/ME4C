@@ -1,5 +1,8 @@
 # About Mimo Services Canada
 
-This is the About page.
+Mimo Services provides IT Services.
+It was founded in 2017 by David Nesry.
+
+**![David Nesry](images/MEDN.jpg)**
 
 ## Created by Mimo Services
